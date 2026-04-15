@@ -28,7 +28,7 @@ Using a custom helper function, I calculated the average difficulty rating for e
 
 
 ## Part 1.5: Conclusion
-<br>
+
 The analysis prior weakly supports the recommendation to split up COMP110 into distinct sections for CS and non-CS majors. 
 
 Hourly commitment:
