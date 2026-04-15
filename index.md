@@ -7,9 +7,9 @@ layout: default
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="static/imgs/logo.png" alt="Image of Comp110 rainbow."  width="400"/>
-<img src="static/imgs/stats.png>" alt="Image of visualization" width="400">
-<img src="static/imgs/stats1.png>" alt="Image of visualization" width="400">
-<img src="static/imgs/stats2.png>" alt="Image of visualization" width="400">
+<img src="static/imgs/stats.png" alt="Image of visualization 1" width="400">
+<img src="static/imgs/stats1.png" alt="Image of visualization 2" width="400">
+<img src="static/imgs/stats2.png" alt="Image of visualization 3" width="400">
 
 ## This is a small header
 
